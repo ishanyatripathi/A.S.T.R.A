@@ -1,4 +1,7 @@
-ASTRA - Adaptive System for Touchless Response & Accessibility
+<img width="934" height="619" alt="image" src="https://github.com/user-attachments/assets/78bff5e5-991f-41ae-99c6-a891defc9606" />
+
+
+A.S.T.R.A - Adaptive System for Touchless Response & Accessibility
 
 ──────────────────────────────────────────────────────
 
